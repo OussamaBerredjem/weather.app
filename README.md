@@ -1,1 +1,1 @@
-# weather app (android/ios)
+# weather app for (android/ios)
